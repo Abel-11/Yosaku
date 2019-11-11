@@ -1,2 +1,1 @@
-# yosaku
-# Yosaku
+Base para un robot siguelineas con un arduino nano. En la parte frontal lleva un array de 8 sensores y ademas de eso cuenta con un botón en uno de sus pines. Montado con motores n20 sujetos con bridas.
